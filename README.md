@@ -69,3 +69,10 @@ python app.py
 3. Access the Application
 http://localhost:
 
+## Results & Impact
+- Successfully deployed a deep learning–powered healthcare application.
+- Demonstrates full ML lifecycle: model usage, inference, and UI integration.
+- Practical real-world healthcare use case.
+
+## License
+- This project is for educational and demonstration purposes.
