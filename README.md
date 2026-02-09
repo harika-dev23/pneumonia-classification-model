@@ -1,13 +1,12 @@
 # Pneumonia Detection Web Application Using Deep Learning
 
 ## Overview
-This project is an **end-to-end Deep Learning–based Pneumonia Detection Web Application** that analyzes medical images and predicts whether a patient shows signs of **Pneumonia**.
-
-The application integrates a **trained deep learning model**, a **Flask backend**, and a **responsive web interface**, providing real-time predictions through a browser-based UI. The project is structured for **local execution and cloud deployment**.
+- This project is an **end-to-end Deep Learning–based Pneumonia Detection Web Application** that analyzes medical images and predicts whether a patient shows signs of **Pneumonia**.
+- The application integrates a **trained deep learning model**, a **Flask backend**, and a **responsive web interface**, providing real-time predictions through a browser-based UI. The project is structured for **local execution and cloud deployment**.
 
 ## Problem Statement
-Early detection of pneumonia is critical for timely medical intervention. Manual diagnosis from medical images can be time-consuming and subjective.  
-This project automates pneumonia detection using a **trained deep learning model** and makes it accessible through a web application.
+- Early detection of pneumonia is critical for timely medical intervention. Manual diagnosis from medical images can be time-consuming and subjective.  
+- This project automates pneumonia detection using a **trained deep learning model** and makes it accessible through a web application.
 
 ## System Architecture
 ```
